@@ -26,7 +26,7 @@ redirect_from:
 🚀 2024.12.05: My paper about cooperative planning for UAV-UGV system will be presented as a poster in RiTA2024 conference.
 
 ## Personal introduction
-🐧 My MBTI is INFP which stand for Introverted, Intuitive, Feeling, and Perceiving.
+🐧 My MBTI is INFP which stands for Introverted, Intuitive, Feeling, and Perceiving.
 
 🏸 The only sport that I am good at is badminton.
 
