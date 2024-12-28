@@ -25,9 +25,12 @@ redirect_from:
 
 🚀 2024.12.05: My paper about cooperative planning for UAV-UGV system will be presented as a poster in RiTA2024 conference.
 
+<!-- ## My background
+ -->
+
 ## Personal introduction
 🐧 My MBTI is INFP which stands for Introverted, Intuitive, Feeling, and Perceiving.
 
 🏸 The only sport that I am good at is badminton.
 
-🍨 In my leisure time, I like cooking and reading books.
+🍨 In my free time, I love cooking and immersing myself in a good book. Moving to South Korea inspired me to learn how to prepare traditional Vietnamese dishes like bun, pho, and spring rolls. I also enjoy baking, with banana cake being my signature dessert! When it comes to reading, I enjoy heartfelt diaries, literary fiction, and compelling autobiographies.
