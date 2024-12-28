@@ -9,33 +9,27 @@ redirect_from:
 ---
 
 ![Illustration of cooperative AI](/images/cooperative_robots.png){: .align_right width="300px"}
-
-🎓 I'm second year master student in Electrical Engineering under supervision of Prof. Jeong hwan Jeon in Robotics and Mobility Lab, UNIST
+🎓 I'm second year master student in Electrical Engineering under supervision of Prof. Jeong hwan Jeon in [Robotics and Mobility Lab](https://rml-unist.notion.site/), UNIST
 
 👩🏻‍💻 My research interests include Optimization and Reinforcement Learning, Multi-agent system and Robotics
-<!-- 
-🔭 I -->
+
+🔭 I am working torwards my master's thesis with the topic on cooperative planning for UAV-UGV system based on Reinforcement learning.
+
+🏡 I'm student from Viet Nam
 
 ## News
+2024.12.28: My personal website is running now.
 
-<ul class="news-list">
-  {% if site.news %}
-    {% assign news_items = site.news | sort: "date" | reverse | slice: 0, 5 %}
-    {% if news_items.size > 0 %}
-      {% for news in news_items %}
-        <li>
-          <strong>{{ news.date | date: "%B %d, %Y" }}</strong>: 
-          <a href="{{ news.url }}">{{ news.title }}</a>
-        </li>
-      {% endfor %}
-    {% else %}
-      <li>No news available at the moment. Please check back later!</li>
-    {% endif %}
-  {% else %}
-    <li>No news collection found. Please check the site configuration.</li>
-  {% endif %}
-</ul>
+2024.12.13: The paper NMOPSO is finally accepted for publication in Neural Computing and Applications!
 
+2024.12.05: My paper about cooperative planning for UAV-UGV system will be presented as a poster in RiTA conferent at UNIST.
+
+## Personal introduction
+🐧 My MBTI is INFP which stand for Introverted, Intuitive, Feeling, and Perceiving.
+
+🏸 The only sport that I am good at is badminton.
+
+🍨 In my leisure time, I like cooking🍪 and reading books📓.
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
