@@ -10,7 +10,7 @@ redirect_from:
 
 
 ![Illustration of cooperative AI](/images/cooperative_robots.png){: .align-right width="350px"}
-🎓 I'm second year master student in Electrical Engineering under supervision of Prof. Jeong hwan Jeon in [Robotics and Mobility Lab](https://rml-unist.notion.site/), UNIST
+🎓 I'm a second-year master student in Electrical Engineering under supervision of Prof. Jeong hwan Jeon in [Robotics and Mobility Lab](https://rml-unist.notion.site/), UNIST
 
 👩🏻‍💻 My research interests include Optimization and Reinforcement Learning, Multi-agent system and Robotics
 
