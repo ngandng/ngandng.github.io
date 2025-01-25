@@ -1,3 +1,4 @@
+# Ngan's personal website
 
 <div align="center">
 
@@ -17,7 +18,6 @@ Ulsan, South Korea
 
 </div>
 
----
 
 ## 👋 Hi, I’m Ngan
 
@@ -30,8 +30,6 @@ Ulsan, South Korea
 
 🔭 I am working towards my master’s thesis with the topic of **cooperative planning for UAV-UGV systems based on Reinforcement Learning.**
 
----
-
 ## News
 
 🚀 **2024.12.28**: My personal website is running now.  
@@ -42,8 +40,7 @@ Ulsan, South Korea
 
 [Here](./publications.md) is the complete list of my works. 
 
-<!-- ---
-
+<!-- 
 ## ✍️ Blogs
 
 
@@ -51,7 +48,6 @@ I like to write down my learning documents as blogs. Check them out if you're in
 
 [My Learning Blogs](./blogs.md) -->
 
----
 
 ## Personal Introduction
 🏡 I’m a student from Viet Nam. \
