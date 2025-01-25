@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    margin: 20px; 
+    margin: 200px; 
     padding: 0;
     background-color: #f4f4f4;
 }
@@ -9,7 +9,7 @@ body {
 header {
     background-color: #333;
     color: white;
-    padding: 20px;
+    padding: 200px;
     text-align: center;
 }
 
@@ -18,7 +18,7 @@ h1, h2 {
 }
 
 section {
-    margin: 20px;
+    margin: 200px;
     padding: 20px;
     background-color: white;
     border-radius: 8px;
@@ -36,7 +36,7 @@ footer {
 /* Add margin to the container for better spacing */
 .container {
     max-width: 80%;  /* Controls the width of the container */
-    margin: 0 auto;  /* Centers the container horizontally */
+    margin: 200px auto;  /* Centers the container horizontally */
     padding: 20px;   /* Padding inside the container */
 }
 
