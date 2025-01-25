@@ -1,8 +1,4 @@
-# Ngan's personal website
 
-<div align="center">
-
-## **Thi Thuy Ngan Duong**  
 *Master Research Student*  
 
 Ulsan National Institute of Science and Technology \
@@ -16,7 +12,6 @@ Ulsan, South Korea
 
 [My CV 📝](/cv_ngan.pdf)
 
-</div>
 
 
 ## 👋 Hi, I’m Ngan
