@@ -1,4 +1,4 @@
-
+<!-- 
 *Master Research Student*  
 
 Ulsan National Institute of Science and Technology \
@@ -35,16 +35,16 @@ Ulsan, South Korea
 
 [Here](./publications.md) is the complete list of my works. 
 
-<!-- 
+
 ## ✍️ Blogs
 
 
 I like to write down my learning documents as blogs. Check them out if you're interested:
 
-[My Learning Blogs](./blogs.md) -->
+[My Learning Blogs](./blogs.md)
 
 
 ## Personal Introduction
 🏡 I’m a student from Viet Nam. \
 🐧 My MBTI is **INFP**, which stands for Introverted, Intuitive, Feeling, and Perceiving.  
-🍨 In my free time, I love cooking and reading fiction books.
+🍨 In my free time, I love cooking and reading fiction books. -->
