@@ -12,7 +12,7 @@
 
 **Cooperative Mission Planning for Heterogeneous Robots with Energy Constraints**  
    *Presented in RiTA, 2024*  
-   [📄 Download Poster](./RiTA2.pdf)
+   [📄 Download Poster](./docs/RiTA2.pdf)
 
 **Ant Colony Optimization for Cooperative Inspection Path Planning Using Multiple Unmanned Aerial Vehicles**  
    *Published in 2024 IEEE/SICE International Symposium on System Integration (SII), 2024*  
