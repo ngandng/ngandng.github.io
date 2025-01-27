@@ -1,52 +1,96 @@
-/* body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
+/* Reset default browser styles */
+* {
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    box-sizing: border-box;
 }
 
-header {
-    background-color: #333;
-    color: white;
-    padding: 20px;
+/* Body styling */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9; /* Light background color */
+    color: #333; /* Dark text color */
+    margin: 0;
+    padding: 0;
+}
+
+/* Main container styling */
+.main-container {
+    margin: 20px auto; /* Top/Bottom margin of 20px, centered horizontally */
+    max-width: 800px; /* Restricts the width for readability */
+    padding: 20px; /* Adds inner spacing */
+    background-color: #fff; /* White background */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+/* Headings */
+h1, h2, h3 {
+    margin-bottom: 15px;
+    color: #222;
     text-align: center;
 }
 
-h1, h2 {
-    font-size: 2em;
+/* Paragraph styling */
+p {
+    margin-bottom: 15px;
+    line-height: 1.8;
+    text-align: justify;
 }
 
-section {
-    margin: 20px;
-    padding: 20px;
-    background-color: white;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+/* Link styling */
+a {
+    color: #0066cc;
+    text-decoration: none;
+    transition: color 0.3s ease;
 }
 
+a:hover {
+    color: #004499; /* Darker blue on hover */
+    text-decoration: underline;
+}
+
+/* Navigation styling */
+nav {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 10px;
+    padding: 5px 10px;
+    color: #fff;
+    background-color: #007bff;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+nav a:hover {
+    background-color: #0056b3;
+}
+
+/* Footer styling */
 footer {
+    margin-top: 20px;
     text-align: center;
-    padding: 10px;
-    background-color: #333;
-    color: white;
-} */
-
-/* style.css */
-.main-container {
-    margin: 20px; /* Adds a 20px margin on all sides */
+    font-size: 0.9em;
+    color: #666;
 }
 
-/* Alternatively, you can specify margins individually */
-.main-container {
-    margin-top: 20px;    /* Top margin */
-    margin-right: auto;  /* Right margin */
-    margin-bottom: 20px; /* Bottom margin */
-    margin-left: auto;   /* Left margin */
-}
+/* Responsive Design */
+@media (max-width: 600px) {
+    .main-container {
+        margin: 10px;
+        padding: 15px;
+    }
 
-/* To center the container */
-.main-container {
-    margin: 20px auto; /* Top/Bottom margin of 20px and auto centering */
-    max-width: 800px;  /* Restricts width for better readability */
+    h1, h2, h3 {
+        font-size: 1.5em;
+    }
+
+    p {
+        font-size: 0.9em;
+    }
 }
