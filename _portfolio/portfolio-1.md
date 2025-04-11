@@ -8,4 +8,4 @@ Unmanned aerial vehicle (UAV) systems are increasingly being adopted across vari
 
 In our literature review, traditional optimization models and heuristic approaches often require high computational costs and struggle to adapt when constraints are added or modified. To overcome these limitations, we developed a deep reinforcement learning (DRL)-based algorithm that aims to produce near-optimal solutions in real time, scale efficiently with problem size, and generalize well to real-world road networks. The system is implemented in Python, with simulations performed on realistic maps obtained from OpenStreetMap. Figure bellow illustrates our current result with a system consisting of 1 truck, 1 drone, and 50 customers. 
 
-<div style='text-align:center;'><img src='/images/portfolio/fstsp.png' width='400'>
+<div style='text-align:center;'><img src='/images/portfolio/fstsp.png' width='400'></div>
