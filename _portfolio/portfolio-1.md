@@ -1,6 +1,6 @@
 ---
 title: "Real-Time Coordination for Truck-and-Drone Delivery Using Deep Reinforcement Learning"
-excerpt: "<div style='text-align:center;'><img src='/images/portfolio/tsp_working_env.png' width='300'></div>""
+excerpt: "<div style='text-align:center;'><img src='/images/portfolio/tsp_working_env.png' width='300'>"
 collection: portfolio
 ---
 
