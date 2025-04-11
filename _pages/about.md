@@ -7,6 +7,14 @@ redirect_from:
   - /about.html
 ---
 
+Hi, my name is Ngan — a master's student in Electrical Engineering at Ulsan National Institute of Science and Technology (UNIST), where I’m fortunate to be part of the [Robotics and Mobility Lab](https://rml-unist.notion.site/Robotics-Mobility-Lab-42d2027df6f24b4db38a83f32fc8456a) (RML) under the supervision of Professor Jeonghwan Jeon. My research interest lies at the intersection of optimization, learning, and decision-making, with a focus on building systems that can operate autonomously in complex, real-world environments. Whether it's coordinating UAVs for delivery, planning inspection paths, or solving rescue communication challenges, I’m driven by solving problems that blend theory with practical impact. Thanks for stopping by — I’m excited to share my journey with you! 💫
+
+📢 News & Updates
+======
+📅 [Jan 02, 2025] - New Paper ["Navigation variable-based multi-objective particle swarm optimization for UAV path planning with kinematic constraints"]( https://doi.org/10.1007/s00521-024-10945-1) on Neural Computing and Applications.
+
+📅 [Dec 05, 2024] - I present my poster "Cooperative Mission Planning for Heterogeneous Robots with Energy Constraints" at The 12th International Conference on Robot Intelligence Technology and Applications (RiTA 2024).
+
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
