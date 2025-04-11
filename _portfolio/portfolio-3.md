@@ -1,6 +1,6 @@
 ---
 title: "Inspection Path Planning for UAVs Using Ant Colony Optimization"
-excerpt: "<div style='text-align:center;'><img src='/images/portfolio/aco_ipp.png' width='300'>"
+excerpt: "<div style='text-align:center;'><img src='/images/portfolio/3d_coverage.png' width='400'>"
 collection: portfolio
 ---
 
