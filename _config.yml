@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : ""
+title                    : "Home page"
 title_separator          : "-"
 name                     : &name "Thi Thuy Ngan Duong"
 description              : &description "personal description"
@@ -23,11 +23,11 @@ repository               : "ngandng/ngandng.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Thi Thuy Ngan Duonh"
-  pronouns         : # example: "she/her"  
+  name             : "Thi Thuy Ngan Duong"
+  pronouns         : "she/her"  
   bio              : "Master student"
   location         : "Ulsan, South Korea"
-  employer         : "Ulsan National Institute of Science and Technology"
+  employer         : "Ulsan National Institute \\ of Science and Technology"
   uri              : # URL
   email            : "ngan.uet@gmail.com" 
 
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
