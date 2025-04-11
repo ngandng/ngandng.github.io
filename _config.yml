@@ -22,7 +22,7 @@ repository               : "ngandng/ngandng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ngan_avt.jpg"
   name             : "Thi Thuy Ngan Duong"
   pronouns         : "she/her"  
   bio              : "Master student"

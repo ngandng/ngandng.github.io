@@ -1,6 +1,6 @@
 ---
 title: "Inspection Path Planning for UAVs Using Ant Colony Optimization"
-excerpt: "<br/><img src='/images/portfolio/aco_ipp.png' width='500'>"
+excerpt: "<div style='text-align:center;'><img src='/images/portfolio/aco_ipp.png' width='300'>"
 collection: portfolio
 ---
 
@@ -10,4 +10,4 @@ In this project, we addressed the problem by first generating viewpoints based o
 
 We applied the Ant Colony Optimization (ACO) algorithm—a heuristic approach—to solve the TSP efficiently. The experimental results show that our method significantly improves path optimization compared to traditional approaches. Figure bellow illustrates the resulting inspection path generated for the Turtle Tower at Hoan Kiem Lake, Hanoi.
 
-<br/><img src='/images/portfolio/aco_ipp.png' width='500'>
+<div style='text-align:center;'><img src='/images/portfolio/aco_ipp.png' width='500'>
