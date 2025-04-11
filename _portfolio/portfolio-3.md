@@ -11,3 +11,5 @@ In this project, we addressed the problem by first generating viewpoints based o
 We applied the Ant Colony Optimization (ACO) algorithm—a heuristic approach—to solve the TSP efficiently. The experimental results show that our method significantly improves path optimization compared to traditional approaches. Figure bellow illustrates the resulting inspection path generated for the Turtle Tower at Hoan Kiem Lake, Hanoi.
 
 <div style='text-align:center;'><img src='/images/portfolio/aco_ipp.png' width='500'>
+
+For more details, see our [paper](https://doi.org/10.1109/sii58957.2024.10417512).
