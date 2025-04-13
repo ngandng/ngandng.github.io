@@ -12,7 +12,7 @@ redirect_from:
 
 Hi, my name is Ngan — a master's student in Electrical Engineering at Ulsan National Institute of Science and Technology (UNIST), where I’m fortunate to be part of the [Robotics and Mobility Lab](https://rml-unist.notion.site/Robotics-Mobility-Lab-42d2027df6f24b4db38a83f32fc8456a) (RML) under the supervision of Assistant Professor Jeonghwan Jeon. 
 
-My research interest lies at the intersection of optimization, learning, and decision-making, with a focus on building systems that can operate autonomously in complex, real-world environments. Whether it's coordinating UAVs for delivery, planning inspection paths, or solving rescue communication challenges, I’m driven by solving problems that blend theory with practical impact. Thanks for stopping by — I’m excited to share my journey with you! 💫
+My **research interests** lie at the intersection of optimization, learning, and decision-making, with a focus on building systems that can operate autonomously in complex, real-world environments. I'm passionate about solving problems that blend theoretical depth with practical impact across a variety of applications. Thanks for stopping by, I'm excited to share my journey with you! 💫
 
 
 📢 News & Updates

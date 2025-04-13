@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "My personal website"
+title                    : "Ngan's personal website"
 title_separator          : "-"
 name                     : &name "Thi Thuy Ngan Duong"
 description              : &description "personal description"
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "dttngaan"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
