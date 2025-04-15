@@ -10,3 +10,5 @@ In emergency rescue situations, maintaining reliable communication is critical b
 
 
 For more details, see our [paper](https://doi.org/10.1109/iccais56082.2022.9990164).
+
+Project-related source code: [https://github.com/duynamrcv/uav_multihop_adhoc](https://github.com/duynamrcv/uav_multihop_adhoc)

@@ -10,3 +10,5 @@ Path planning is a fundamental problem in robotics, where optimization objective
 
 
 For more details, see our [paper](https://doi.org/10.1007/s00521-024-10945-1).
+
+Project-related source code: [https://github.com/ngandng/NMOPSO](https://github.com/ngandng/NMOPSO)
