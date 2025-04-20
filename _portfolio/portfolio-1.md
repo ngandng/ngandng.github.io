@@ -12,3 +12,4 @@ In our literature review, traditional optimization models and heuristic approach
 
 Project-related source code: 
 - [https://github.com/ngandng/fstsp_heuristic](https://github.com/ngandng/fstsp_heuristic)
+- [https://github.com/ngandng/rl_mtsp](https://github.com/ngandng/rl_mtsp)
