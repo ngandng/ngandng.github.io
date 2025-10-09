@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Duong Thi Thuy Ngan</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <div class="profile-info">
+                    <!-- Profile info will be loaded from JSON -->
+                </div>
+                <div class="profile-image">
+                    <img src="assets/profile.jpg" id="profile-img">
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <nav>
+        <div class="container">
+            <ul class="nav-links">
+                <li><a href="#about" class="active">Biography</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#research">Research</a></li>
+                <li><a href="#latest-news">News</a></li>
+                <li><a href="#publications">Publications</a></li>
+                <li><a href="#honors">Honors</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#location">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main>
+        <section id="about" class="section">
+            <div class="container">
+                <h2 class="section-title">Biography</h2>
+                <div class="about-content">
+                    <p><b>Duong Thi Thuy Ngan</b> is currently a Master student at the <a>Department of Electrical Engineering, Ulsan National Institute of Science and Technology</a>, under the supervision of <b>Asst. Prof. Jeonghwan Jeon</b> at <a href="http://rml.unist.ac.kr"> <a>Robotics and Mobility Lab</a>. <br><br>
+        
+                </div>
+            </div>
+        </section>
+
+        <section id="education" class="section">
+            <div class="container">
+                <h2 class="section-title">Education</h2>
+                <div class="timeline">
+                    <div class="timeline-item">
+                        <div class="timeline-marker"></div>
+                        <div class="timeline-content">
+                            <div class="edu-content-wrapper">
+                                <div class="edu-text">
+                                    <h3>M.s @ Ulsan National Institute of Science and Technology (UNIST)</h3>
+                                    <p class="timeline-date">Aug. 2023 - Now</p>
+                                    <p>Electrical Engineering</p>
+                                    <p>Supervisor: <a>Asst. Prof. Jeonghwan Jeon</a> </p>
+                                </div>
+                                <!-- <div class="school-logo">
+                                    <img src="assets/profile.jpg" alt="West Coast University" class="edu-logo">
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-marker"></div>
+                        <div class="timeline-content">
+                            <div class="edu-content-wrapper">
+                                <div class="edu-text">
+                                    <h3>BEng @ University of Engineering and Technology, Vietnam National University of Hanoi (VNU-UET)</h3>
+                                    <p class="timeline-date">Sep. 2018 - Jul. 2022</p>
+                                    <p>Robotics Engineering</p>
+                                    <p>Supervisor: <a>Dr. Manh Duong Phung</a> </p>
+                                </div>
+                                <!-- <div class="school-logo">
+                                    <img src="assets/profile.jpg" alt="Northern Technical University" class="edu-logo">
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="research" class="section">
+            <div class="container">
+                <h2 class="section-title">Research Interests</h2>
+                <div class="research-areas">
+                    <div class="research-area">
+                        <i class="fas fa-robot"></i>
+                        <h3>Optimization Planning</h3>
+                        <ul class="research-list">
+                            <li><strong>Robotics:</strong> Advance planning and decision-making in robotics and autonomous systems by optimization algorithms and deep reinforcement learning</li>
+                            <li><strong>Inteligent Transportation:</strong> Developing algorithms for optimizing delivery service.</li>
+                        </ul>
+                    </div>
+                    <!-- <div class="research-area">
+                        <i class="fas fa-leaf"></i>
+                        <h3>Environmental Sustainability</h3>
+                        <ul class="research-list">
+                            <li><strong>Carbon Capture Technologies:</strong> Investigating novel materials and processes for direct air capture of CO₂ and its conversion into valuable products or stable storage forms.</li>
+                            <li><strong>Water Treatment Innovation:</strong> Designing membrane-based filtration systems for removing emerging contaminants and recovering valuable resources from wastewater streams.</li>
+                        </ul>
+                    </div> -->
+                </div>
+            </div>
+        </section>
+
+        <section id="latest-news" class="section">
+            <div class="container">
+                <h2 class="section-title">Latest News</h2>
+                <div id="news-container" class="news-list">
+                    <!-- News items will be dynamically loaded here from news.json -->
+                </div>
+                <div class="view-all-news">
+                    <a href="pages/all-news.html" class="btn btn-primary"><i class="fas fa-list"></i> View All News</a>
+                </div>
+            </div>
+        </section>
+
+        <section id="publications" class="section">
+            <div class="container">
+                <h2 class="section-title">Publications</h2>
+                <p class="section-description"><sup>#</sup>equal contribution, *corresponding author.</p>
+                <div class="publication-filter">
+                    <button class="filter-btn active" data-filter="all">All</button>
+                    <button class="filter-btn" data-filter="preprint">Preprints</button>
+                    <button class="filter-btn" data-filter="accepted">Accepted</button>
+                    <button class="filter-btn" data-filter="first-author">First Author</button>
+                </div>
+                <div class="publications-list">
+                    <!-- Publications items will be dynamically loaded here from publications.json -->
+                </div>
+            </div>
+        </section>
+
+        <section id="honors" class="section">
+            <div class="container">
+                <h2 class="section-title">Honors & Awards</h2>
+                <div class="honors-list">
+                    
+                    <div class="honor-item">
+                        <div class="honor-year"><span class="year-highlight">2023</span></div>
+                        <div class="honor-content">
+                            <h3>Scholarship for Master Student at UNIST</h3>
+                            <p>Ulsan National Institute of Science and Technology</p>
+                        </div>
+                    </div>
+                    <div class="honor-item">
+                        <div class="honor-year"><span class="year-highlight">2020</span></div>
+                        <div class="honor-content">
+                            <h3>Student Research Contest</h3>
+                            <p>University of Engineering and Technology</p>
+                            <p>The sencond prize</p>
+                        </div>
+                    </div>
+                    
+                    
+                    
+                </div>
+            </div>
+        </section>
+
+        <!-- <section id="services" class="section">
+            <div class="container">
+                <h2 class="section-title">Services</h2>
+                <div class="services-content">
+                    <div class="service-category">
+                        <h3>Conference Technical Program Committee & Reviewer</h3>
+                        <ul class="service-list">
+                            <li>ACM MM'25</li>
+                            <li>ICML'25</li>
+                            <li>ICLR'25</li>
+                            <li>AAAI'25</li>
+                            <li>CSCW'25</li>
+                            <li>ICRA'25</li>
+                            <li>ICCC'24</li>
+                            <li>IROS'24, 25</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="service-category">
+                        <h3>Journal Reviewer</h3>
+                        <ul class="service-list">
+                            <li>ACM Computing Surveys</li>
+                            <li>IEEE TMC</li>
+                            <li>IEEE/ACM ToN</li>
+                            <li>IEEE TITS</li>
+                            <li>IET Information Security</li>
+                            <li>IEEE TNSM</li>
+                            <li>ACM TAAS</li>
+                            <li>Information Fusion</li>
+                            <li>Pattern Recognition</li>
+                            <li>IEEE RA-L</li>
+                            <li>Proceedings of the IEEE</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="service-category">
+                        <h3>Teaching Assistant</h3>
+                        <ul class="service-list">
+                            <li>Cloud Computing, 2025 Spring</li>
+                            <li>Computer Networks, 2024 Fall</li>
+                            <li>Cloud Computing: Theory and Practice, 2024 Spring</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section> -->
+
+        <section id="location" class="section">
+            <div class="container">
+                <h2 class="section-title">Contact</h2>
+                <div class="location-content">
+                    <div class="address-container">
+                        <div class="address-info">
+                            <h3>Office Address</h3>
+                            <p><i class="fas fa-map-marker-alt"></i> 510-106 Ulsan National Institute of Science and Technology, Ulju-gun, Ulsan 44919, South Korea</p>
+                        </div>
+                    </div>
+                    <!-- <div class="map-container">
+                        <iframe 
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.805833275243!2d-122.4113006849933!3d37.77492977975935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f7e2618a21553%3A0xc24a27316c149226!2sSan%20Francisco%2C%20CA%2C%20USA!5e0!3m2!1sen!2s!4v1716977566159!5m2!1sen!2s"
+                            width="100%" 
+                            height="400" 
+                            style="border:0;" 
+                            allowfullscreen="" 
+                            loading="lazy" 
+                            referrerpolicy="no-referrer-when-downgrade">
+                        </iframe>
+                    </div> -->
+                </div>
+            </div>
+            <br><br><br><br>
+                <div style="width: 15%; height: auto; margin: auto;">
+                    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Frxy0rfEZDtQqjGbJ_w8LEF-2KVersYTn0A3-GN6BRE"></script>
+                </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; <span id="current-year"></span> <a href="https://github.com/dl-m9/academic-homepage-modernism">academic-homepage-modernism</a>. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script>
+        // Update copyright year
+        document.getElementById('current-year').textContent = new Date().getFullYear();
+        
+        // Mobile navigation horizontal scroll handling
+        document.addEventListener('DOMContentLoaded', function() {
+            const navLinks = document.querySelector('.nav-links');
+            if (navLinks) {
+                // Check if scrollable
+                const checkScrollable = () => {
+                    const isScrollable = navLinks.scrollWidth > navLinks.clientWidth;
+                    document.querySelector('nav .container').classList.toggle('has-scroll', isScrollable);
+                };
+                
+                // Check on load and resize
+                checkScrollable();
+                window.addEventListener('resize', checkScrollable);
+                
+                // Scroll to active link
+                const activeLink = navLinks.querySelector('a.active');
+                if (activeLink) {
+                    const activeLi = activeLink.closest('li');
+                    if (activeLi) {
+                        setTimeout(() => {
+                            // Center the active link
+                            const scrollPos = activeLi.offsetLeft - (navLinks.clientWidth / 2) + (activeLi.offsetWidth / 2);
+                            navLinks.scrollLeft = Math.max(0, scrollPos);
+                        }, 100);
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html> 

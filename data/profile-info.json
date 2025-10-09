@@ -1,0 +1,36 @@
+{
+  "name": "DUONG THI THUY NGAN 🐸",
+  "subtitle": "Ms@EE, UNIST &nbsp;&nbsp;  BEng@Robotics, VNU-UET<br><a href=\"#\">Robotics and Mobility Lab (RML)</a>",
+  "socialLinks": [
+    {
+      "type": "email",
+      "url": "mailto:ngan.uet@gmail.com",
+      "icon": "<i class=\"fas fa-envelope\"></i>"
+    },
+    {
+      "type": "ORCID",
+      "url": "https://orcid.org/0009-0005-9768-7084",
+      "icon": "<i class=\"fab fa-orcid\"></i>",
+      "target": "_blank"
+    },
+    {
+      "type": "googleScholar",
+      "url": "https://scholar.google.com.vn/citations?user=NchD9VIAAAAJ&hl=en",
+      "icon": "<i class=\"fas fa-graduation-cap\"></i>",
+      "target": "_blank"
+    },
+    {
+      "type": "linkedin",
+      "url": "https://www.linkedin.com/in/dttngaan/",
+      "icon": "<i class=\"fab fa-linkedin\"></i>",
+      "target": "_blank"
+    },
+    {
+      "type": "github",
+      "url": "https://github.com/ngandng",
+      "icon": "<i class=\"fab fa-github\"></i>",
+      "target": "_blank"
+    }
+  ],
+  "profileImage": "assets/profile.jpg"
+} 

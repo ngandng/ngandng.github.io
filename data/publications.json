@@ -1,0 +1,74 @@
+[
+  {
+    "number": 1,
+    "title": "An Edge-Aware Deep Reinforcement Learning Framework for the Traveling Salesman Problem with Drone",
+    "authors": "<strong><u>Thi Thuy Ngan Duong</u></strong>, an co-authors",
+    "type": "preprint",
+    "isFirstAuthor": true,
+    "tags": [
+      {
+        "text": "Preprint",
+        "class": "preprint-tag"
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "title": "Navigation variable-based multi-objective particle swarm optimization for UAV path planning with kinematic constraints",
+    "authors": "<strong><u>Thi Thuy Ngan Duong</u></strong>, Duy Nam Bui, Manh Duong Phung",
+    "type": "accepted",
+    "isFirstAuthor": true,
+    "tags": [
+      {
+        "text": "Neural Computing and Applications",
+        "class": "venue-tag"
+      },
+      {
+        "text": "PDF",
+        "class": "code-tag",
+        "link": "https://doi.org/10.1007/s00521-024-10945-1"
+      },
+      {
+        "text": "Code",
+        "class": "code-tag",
+        "link": "https://github.com/ngandng/NMOPSO"
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "title": "Ant colony optimization for cooperative inspection path planning using multiple unmanned aerial vehicles",
+    "authors": "Duy Nam Bui, <strong><u>Thuy Ngan Duong</u></strong>, Manh Duong Phung",
+    "type": "accepted",
+    "isFirstAuthor": false,
+    "tags": [
+      {
+        "text": "IEEE SII",
+        "class": "venue-tag"
+      },
+      {
+        "text": "PDF",
+        "class": "code-tag",
+        "link": "https://doi.org/10.1109/sii58957.2024.10417512"
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Deployment of UAVs for Optimal Multihop Ad-hoc Networks Using Particle Swarm Optimization and Behavior-based Control",
+    "authors": "<strong><u>Ngan Duong Thi Thuy</u></strong>, Duy Nam Bui, Manh Duong Phung, Hung Pham Duy",
+    "type": "accepted",
+    "isFirstAuthor": true,
+    "tags": [
+      {
+        "text": "IEEE ICCAIS",
+        "class": "venue-tag"
+      },
+      {
+        "text": "PDF",
+        "class": "code-tag",
+        "link": "https://doi.org/10.1109/iccais56082.2022.9990164"
+      }
+    ]
+  }
+] 
