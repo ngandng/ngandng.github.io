@@ -50,6 +50,11 @@
         "text": "PDF",
         "class": "code-tag",
         "link": "https://doi.org/10.1109/sii58957.2024.10417512"
+      },
+      {
+        "text": "Code",
+        "class": "code-tag",
+        "link": "https://github.com/duynamrcv/aco_3d_ipp"
       }
     ]
   },
@@ -68,6 +73,11 @@
         "text": "PDF",
         "class": "code-tag",
         "link": "https://doi.org/10.1109/iccais56082.2022.9990164"
+      },
+      {
+        "text": "Code",
+        "class": "code-tag",
+        "link": "https://github.com/duynamrcv/uav_multihop_adhoc"
       }
     ]
   }
