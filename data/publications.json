@@ -15,7 +15,7 @@
   {
     "number": 2,
     "title": "Navigation variable-based multi-objective particle swarm optimization for UAV path planning with kinematic constraints",
-    "authors": "<strong><u>Thi Thuy Ngan Duong</u></strong>, Duy Nam Bui, Manh Duong Phung",
+    "authors": "<strong><u>Thi Thuy Ngan Duong</u></strong>, Duy Nam Bui, Manh Duong Phung*",
     "type": "accepted",
     "isFirstAuthor": true,
     "tags": [
@@ -38,7 +38,7 @@
   {
     "number": 3,
     "title": "Ant colony optimization for cooperative inspection path planning using multiple unmanned aerial vehicles",
-    "authors": "Duy Nam Bui, <strong><u>Thuy Ngan Duong</u></strong>, Manh Duong Phung",
+    "authors": "Duy Nam Bui, <strong><u>Thuy Ngan Duong</u></strong>, Manh Duong Phung*",
     "type": "accepted",
     "isFirstAuthor": false,
     "tags": [
@@ -56,7 +56,7 @@
   {
     "number": 4,
     "title": "Deployment of UAVs for Optimal Multihop Ad-hoc Networks Using Particle Swarm Optimization and Behavior-based Control",
-    "authors": "<strong><u>Ngan Duong Thi Thuy</u></strong>, Duy Nam Bui, Manh Duong Phung, Hung Pham Duy",
+    "authors": "<strong><u>Ngan Duong Thi Thuy</u></strong>, Duy Nam Bui, Manh Duong Phung, Hung Pham Duy*",
     "type": "accepted",
     "isFirstAuthor": true,
     "tags": [
