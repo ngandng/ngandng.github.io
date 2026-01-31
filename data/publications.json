@@ -1,8 +1,8 @@
 [
   {
     "number": 1,
-    "title": "An Edge-Aware Deep Reinforcement Learning Framework for the Traveling Salesman Problem with Drone",
-    "authors": "<strong><u>Thi Thuy Ngan Duong</u></strong>, an co-authors",
+    "title": "A Combined Graph Attention Framework with Edge Encoding for Cooperative Truck–Drone Routing",
+    "authors": "<strong><u>Thi Thuy Ngan Duong</u></strong>, Jungeun Lee, Kyeong min Do, Jeong hwan Jeon*",
     "type": "preprint",
     "isFirstAuthor": true,
     "tags": [
