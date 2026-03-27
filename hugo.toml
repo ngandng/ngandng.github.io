@@ -21,7 +21,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
     title = 'Zero'
 
     [languages.en.params]
-      author = "Ngan"
+      author = "Duong Thi Thuy Ngan"
       description = "Ph.D Student in Computing and Data Science."
       motto = "Most things in the world are not that important. But truth and love matter."
     
@@ -47,9 +47,14 @@ disableKinds = ["taxonomy", "term", "RSS"]
       weight = 5
 
     [[languages.en.menu.main]]
-      name = 'Internships'
-      url = '#internships'
+      name = 'Industry experiences'
+      url = '#industry'
       weight = 7
+
+    [[languages.en.menu.main]]
+      name = 'Photos'
+      url = '/photo'
+      weight = 8
 
 
 [params]

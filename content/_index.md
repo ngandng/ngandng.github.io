@@ -1,5 +1,5 @@
 ---
-title: "Ngan"
+title: "Duong Thi Thuy Ngan"
 ---
 
 # About Me {#about-me}
@@ -42,19 +42,19 @@ I’m always happy to chat about research, ideas, or collaboration opportunities
   <a href="https://github.com/duynamrcv/uav_multihop_adhoc" class="no-trailing-icon"></a>
 
 # 🎖 Honors and Awards {#honors-and-awards}
-- *2026.01* NTU Research Scholarship. 
-- *2023.08* UNIST Scholarship for master's student.
-- *2020* VNU-UET Student Research Competition (second prize).
+- *2026.01*: NTU Research Scholarship. 
+- *2023.08*: UNIST Scholarship for master's student.
+- *2020*: VNU-UET Student Research Competition (second prize).
 
 # 📖 Educations {#educations}
-- *2026.01 - now*, PhD in Computing and Data Science, NTU, Singapore.
-- *2023.08 - 2025.12*, Master in Electrical Engineering, UNIST, South Korea.
-- *2018.08 - 2022.06*, BE in Robotics Engineering, VNU-UET, Viet Nam. 
+- *2026.01 - now*: PhD in Computing and Data Science, NTU, Singapore.
+- *2023.08 - 2025.12*: Master in Electrical Engineering, UNIST, South Korea.
+- *2018.08 - 2022.06*: BE in Robotics Engineering, VNU-UET, Viet Nam. 
 
 <!-- # 💬 Invited Talks {#invited-talks}
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Industry experiences {#internships}
-- *2323.01 - 2023.07*, Software Engineer at FPT Software, Viet Nam.
-- *2021.06 - 2021.07*, Samsung Display Viet Nam.
+# 💻 Industry experiences {#industry}
+- *2323.01 - 2023.07*: Software Engineer at FPT Software, Viet Nam.
+- *2021.06 - 2021.07*: Samsung Display Viet Nam.
