@@ -8,7 +8,7 @@ Hello, my name is Ngan. I am currently pursuing my Ph.D. at CCDS, NTU, Singapore
 
 I obtained my M.S. in Electrical Engineering from Ulsan National Institute of Science and Technology (South Korea) in 2026, and my B.E. in Robotics from Vietnam National University of Hanoi in 2022.
 
-I’m always happy to chat about research, ideas, or collaboration opportunities. Please feel free to contact me via email!
+I’m always happy to chat about research, ideas, or collaboration opportunities. Please feel free to contact me via email!✨
 
 # 🔥 News {#news}
 - *2026.01*: &nbsp;🎉🎉 I started my PhD at NTU.

@@ -27,29 +27,9 @@ disableKinds = ["taxonomy", "term", "RSS"]
     
     [[languages.en.menu.main]]
       name = 'About Me'
-      url = '#about-me'
+      url = '/_index'
       weight = 1
-    [[languages.en.menu.main]]
-      name = 'News'
-      url = '#news'
-      weight = 2
-    [[languages.en.menu.main]]
-      name = 'Publications'
-      url = '#publications'
-      weight = 3
-    [[languages.en.menu.main]]
-      name = 'Honors and Awards'
-      url = '#honors-and-awards'
-      weight = 4
-    [[languages.en.menu.main]]
-      name = 'Educations'
-      url = '#educations'
-      weight = 5
-
-    [[languages.en.menu.main]]
-      name = 'Industry experiences'
-      url = '#industry'
-      weight = 7
+    
 
     [[languages.en.menu.main]]
       name = 'Photos'
