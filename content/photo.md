@@ -1,10 +1,8 @@
 ---
-title: "Photos"
+title: "My Photos 📸"
 ---
 
-# My Photos 📸
-
-I like to take photos of everything!
+I enjoy capturing simple moments of life. Here, I put some of my favorite pics from the places I’ve visited along the way.
 
 ## Singapore 🇸🇬
 
