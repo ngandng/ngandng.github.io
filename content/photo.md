@@ -2,7 +2,7 @@
 title: "My Photos 📸"
 ---
 
-I enjoy capturing simple moments of life. Here, I put some of my favorite pics from the places I’ve visited along the way.
+I enjoy taking pictures of simple scences. Here, I put some of my favorite pics from the places I’ve visited along the way.
 
 ## Singapore 🇸🇬
 
