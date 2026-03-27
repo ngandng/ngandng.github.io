@@ -25,10 +25,6 @@ disableKinds = ["taxonomy", "term", "RSS"]
       description = "Ph.D Student in Computing and Data Science."
       motto = "Most things in the world are not that important. But truth and love matter."
     
-    [[languages.en.menu.main]]
-      name = 'About Me'
-      url = '/_index'
-      weight = 1
     
 
     [[languages.en.menu.main]]
