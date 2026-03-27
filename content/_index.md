@@ -10,7 +10,7 @@ I obtained my M.S. in Electrical Engineering from Ulsan National Institute of Sc
 
 I’m always happy to chat about research, ideas, or collaboration opportunities. Please feel free to contact me via email!✨
 
-# 🔥 News {#news}
+# 📢 News {#news}
 - *2026.01*: &nbsp;🎉🎉 I started my PhD at NTU.
 - *2025.12*: &nbsp;🎉🎉 I successfully defended my master's thesis titled "A Deep Reinforcement Learning Framework with Edge-Aware Encoding for the Traveling Salesman Problem with Drone". 
 - *2025.01*: &nbsp;🎉🎉 New Paper “Navigation variable-based multi-objective particle swarm optimization for UAV path planning with kinematic constraints” on Neural Computing and Applications. 
