@@ -28,7 +28,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
     
 
     [[languages.en.menu.main]]
-      name = 'Photos'
+      name = 'Gallery'
       url = '/photo'
       weight = 8
 
