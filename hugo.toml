@@ -21,7 +21,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
     title = 'Zero'
 
     [languages.en.params]
-      author = "Lorem ipsum"
+      author = "Ngan"
       description = "Ph.D Student in Computing and Data Science."
       motto = "Most things in the world are not that important. But truth and love matter."
     
@@ -45,19 +45,11 @@ disableKinds = ["taxonomy", "term", "RSS"]
       name = 'Educations'
       url = '#educations'
       weight = 5
-    [[languages.en.menu.main]]
-      name = 'Invited Talks'
-      url = '#invited-talks'
-      weight = 6
+
     [[languages.en.menu.main]]
       name = 'Internships'
       url = '#internships'
       weight = 7
-
-    [[languages.en.menu.main]]
-      name = 'Photos'
-      url = '/photo'
-      weight = 8
 
 
 [params]
