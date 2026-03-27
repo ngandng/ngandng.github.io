@@ -56,5 +56,5 @@ I’m always happy to chat about research, ideas, or collaboration opportunities
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Industry experiences {#industry}
-- *2323.01 - 2023.07*: Software Engineer at FPT Software, Viet Nam.
-- *2021.06 - 2021.07*: Samsung Display Viet Nam.
+- *2023.01 - 2023.07*: Software Engineer, FPT Software, Viet Nam.
+- *2021.06 - 2021.07*: Intern, Samsung Display Viet Nam.
