@@ -8,28 +8,28 @@ I like to take photos of everything!
 
 ## Singapore 🇸🇬
 
-![photo1](/photos/sg1.jpg)
-![photo2](/photos/sg2.jpg)
+![photo1](/photos/sg1.jpeg)
+![photo2](/photos/sg2.jpeg)
 
 ## Korea 🇰🇷
 
-![photo1](/photos/kr1.jpg)
-![photo2](/photos/kr2.jpg)
-![photo1](/photos/kr3.jpg)
-![photo2](/photos/kr4.jpg)
-![photo1](/photos/kr5.jpg)
-![photo2](/photos/kr6.jpg)
-![photo1](/photos/kr7.jpg)
-![photo2](/photos/kr8.jpg)
-![photo1](/photos/kr9.jpg)
-![photo2](/photos/kr10.jpg)
+![photo3](/photos/kr1.jpeg)
+![photo4](/photos/kr2.jpeg)
+![photo5](/photos/kr3.jpeg)
+![photo6](/photos/kr4.jpeg)
+![photo7](/photos/kr5.jpeg)
+![photo8](/photos/kr6.jpeg)
+![photo9](/photos/kr7.jpeg)
+![photo10](/photos/kr8.jpeg)
+![photo11](/photos/kr9.jpeg)
+![photo12](/photos/kr10.jpeg)
 
 ## Viet Nam 🇻🇳
 
-![photo1](/photos/vn1.jpg)
-![photo2](/photos/vn2.jpg)
-![photo1](/photos/vn3.jpg)
+![photo13](/photos/vn1.jpeg)
+![photo14](/photos/vn2.jpeg)
+![photo15](/photos/vn3.jpeg)
 
 ## Thailand 🇹🇭
 
-![photo1](/photos/tl1.jpg)
+![photo16](/photos/tl1.jpeg)
