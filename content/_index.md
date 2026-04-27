@@ -8,13 +8,13 @@ Hello, my name is Ngan. I am currently a Ph.D student at CCDS, NTU, Singapore, u
 
 I obtained my M.S. in Electrical Engineering from Ulsan National Institute of Science and Technology (South Korea) in 2026, and my B.E. in Robotics from Vietnam National University of Hanoi in 2022.
 
-I’m always happy to chat about research, ideas, or collaboration opportunities. Please feel free to contact me via email!✨
+I’m always happy to chat about research, ideas, or collaboration opportunities. Please feel free to contact me via email!
 
 # 📢 News {#news}
-- *2026.01*: &nbsp;🎉🎉 I started my PhD at NTU.
-- *2025.12*: &nbsp;🎉🎉 I successfully defended my master's thesis titled "A Deep Reinforcement Learning Framework with Edge-Aware Encoding for the Traveling Salesman Problem with Drone". 
-- *2025.01*: &nbsp;🎉🎉 New Paper “Navigation variable-based multi-objective particle swarm optimization for UAV path planning with kinematic constraints” on Neural Computing and Applications. 
-- *2025.01*: &nbsp;🎉🎉 I present my poster “Cooperative Mission Planning for Heterogeneous Robots with Energy Constraints” at The 12th International Conference on Robot Intelligence Technology and Applications (RiTA 2024).
+- *2026.01*: &nbsp; I started my PhD at NTU.
+- *2025.12*: &nbsp; I successfully defended my master's thesis titled "A Deep Reinforcement Learning Framework with Edge-Aware Encoding for the Traveling Salesman Problem with Drone". 
+- *2025.01*: &nbsp; New Paper “Navigation variable-based multi-objective particle swarm optimization for UAV path planning with kinematic constraints” on Neural Computing and Applications. 
+- *2025.01*: &nbsp; I present my poster “Cooperative Mission Planning for Heterogeneous Robots with Energy Constraints” at The 12th International Conference on Robot Intelligence Technology and Applications (RiTA 2024).
 
 # 📝 Publications {#publications}
 
@@ -55,6 +55,6 @@ I’m always happy to chat about research, ideas, or collaboration opportunities
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Industry experiences {#industry}
+# 💻 Industrial experiences {#industry}
 - *2023.01 - 2023.07*: Software Engineer, FPT Software, Viet Nam.
 - *2021.06 - 2021.07*: Intern, Samsung Display Viet Nam.
