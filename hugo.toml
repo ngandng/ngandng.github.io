@@ -24,13 +24,6 @@ disableKinds = ["taxonomy", "term", "RSS"]
       author = "Duong Thi Thuy Ngan"
       description = "Ph.D Student in Computing and Data Science."
       motto = "We are an algorithm of ourselves--if you liked that you may also like this."
-    
-    
-
-    [[languages.en.menu.main]]
-      name = 'Gallery'
-      url = '/photo'
-      weight = 8
 
 
 [params]
