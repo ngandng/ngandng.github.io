@@ -4,7 +4,7 @@ title: "Duong Thi Thuy Ngan"
 
 # About Me {#about-me}
 
-Hello, my name is Ngan. I am currently a Ph.D student at CCDS, NTU, Singapore, under the supervision of [Asst. Prof. Yoonchang Sung](https://yoonchangsung.com/). My research interest is optimization algorithms for robotics and autonomous systems, particullarly focus on developing robust, efficient decision-making and planning methods.
+Hello, my name is Ngan. I am currently a Ph.D student at CCDS, NTU, Singapore, under the supervision of [Asst. Prof. Yoonchang Sung](https://yoonchangsung.com/). My research interest is optimization and learning-based planning for robotics and autonomous systems.
 
 I’m always happy to chat about research, ideas, or collaboration opportunities. Please feel free to contact me via email!
 
