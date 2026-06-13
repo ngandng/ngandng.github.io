@@ -60,6 +60,6 @@ I’m always happy to chat about research, ideas, or collaboration opportunities
 
 # 🤖 My inspiration
 
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-  <img src="/images/baymax.jpg" style="width:70%; height:auto;">
+<div style="display:flex; justify-content:center;">
+  <img src="/images/baymax.jpg" style="width:300px; max-width:100%; height:auto;">
 </div>
