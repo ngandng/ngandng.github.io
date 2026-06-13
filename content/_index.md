@@ -56,3 +56,12 @@ I’m always happy to chat about research, ideas, or collaboration opportunities
 <!-- # 💻 Industrial experiences {#industry}
 - *2023.01 - 2023.07*: Software Engineer, FPT Software, Viet Nam.
 - *2021.06 - 2021.07*: Intern, Samsung Display Viet Nam. -->
+
+
+# 🤖 My inspiration
+
+<figure>
+  <img src="/assets/images/baymax.jpg" alt="" width="300">
+  <figcaption>
+  </figcaption>
+</figure>
