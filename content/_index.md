@@ -61,5 +61,5 @@ I’m always happy to chat about research, ideas, or collaboration opportunities
 # 🤖
 
 <div style="display:flex; justify-content:center;">
-  <img src="/images/baymax.jpg" style="width:300px; max-width:100%; height:auto;">
+  <img src="/images/baymax.jpg" style="width:400px; max-width:100%; height:auto;">
 </div>
