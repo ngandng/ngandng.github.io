@@ -58,7 +58,7 @@ I’m always happy to chat about research, ideas, or collaboration opportunities
 - *2021.06 - 2021.07*: Intern, Samsung Display Viet Nam. -->
 
 
-# 🤖 My inspiration
+# 🤖
 
 <div style="display:flex; justify-content:center;">
   <img src="/images/baymax.jpg" style="width:300px; max-width:100%; height:auto;">
