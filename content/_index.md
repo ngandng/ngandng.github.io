@@ -4,7 +4,7 @@ title: "Duong Thi Thuy Ngan"
 
 # About Me {#about-me}
 
-Hello, my name is Ngan. I am currently a Ph.D student at CCDS, NTU, Singapore, under the supervision of [Asst. Prof. Yoonchang Sung](https://yoonchangsung.com/). My research interest is optimization and learning-based planning for robotics and autonomous systems.
+Hello, my name is Ngan (Anna). I am currently a Ph.D student at CCDS, NTU, Singapore, under the supervision of [Asst. Prof. Yoonchang Sung](https://yoonchangsung.com/). My research interest is optimization and learning-based planning for robotics and autonomous systems.
 
 I’m always happy to chat about research, ideas, or collaboration opportunities. Please feel free to contact me via email!
 
@@ -16,12 +16,16 @@ I’m always happy to chat about research, ideas, or collaboration opportunities
 
 # 📝 Publications {#publications}
 
+- ***[Polar coordinate-based differential evolution for moving target search using vision sensor on unmanned aerial vehicles](https://arxiv.org/pdf/2607.17771)*** <br>
+  Thu Hang Khuat, Duy-Nam Bui, Thuy Ngan Duong, Manh Duong Phung*
+  in Intelligent Service Robotics, 2026. <br>
+
 - ***[A Combined Graph Attention Framework with Edge Encoding for Cooperative Truck–Drone Routing]()*** <br>
   Thi Thuy Ngan Duong, Jungeun Lee, Kyeong min Do, Jeong hwan Jeon*
   (Preprint). <br>
   <!-- <a href="https://arxiv.org/abs/2304.08485" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2304.08485-b31b1b.svg?style=flat-square" alt="Arxiv-2304.08485"/></a><a href="https://github.com/haotian-liu/LLaVA" class="no-trailing-icon"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/haotian-liu/LLaVA?style=flat-square&logo=github&label=GitHub%20Stars&labelColor=black"></a> -->
 
-- ***[Navigation variable-based multi-objective particle swarm optimization for UAV path planning with kinematic constraints](https://doi.org/10.1007/s00521-024-10945-1)*** <br>
+- ***[Navigation variable-based multi-objective particle swarm optimization for UAV path planning with kinematic constraints](https://arxiv.org/abs/2501.03261)*** <br>
   Thi Thuy Ngan Duong, Duy Nam Bui, Manh Duong Phung*
   in Neural Computing and Applications, 2025. <br>
   <!-- <a href="https://arxiv.org/abs/2304.08485" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2304.08485-b31b1b.svg?style=flat-square" alt="Arxiv-2304.08485"/></a> -->
